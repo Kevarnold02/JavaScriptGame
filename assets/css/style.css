@@ -1,0 +1,39 @@
+#container {
+	width: 50%;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #446E4B;
+	margin: 10% auto;
+	text-align: center;
+}
+
+#letters a{
+	color: black;
+	background-color: #E3CECE;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+#letters a:hover{
+	color: red;
+}
+
+#letters a .d{
+	color: yellow;
+	text-decoration: underline;
+}
+
+#WORD {
+	letter-spacing: 5px;
+}
+
+header {
+	width: 50%;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #446E4B;
+	margin: 10px auto;
+	text-align: center;
+	font-size: 36px;
+	margin-bottom: -50px;
+}
